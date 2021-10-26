@@ -1,0 +1,793 @@
+SE11	M279	1613100	1630701	environment interaction	secretion system
+IAI1	M279	1518531	1533831	environment interaction	unknown
+K12	M280	1526940	1533285	environment interaction	secretion system
+HS	M280	260430	268935	environment interaction	secretion system
+IAI1	M280	260641	277827	environment interaction	secretion system
+SE11	M280	265397	272644	environment interaction	secretion system
+CFT073	M278	3624578	3629552	host interaction	adhesion
+S88	M278	3401225	3406199	host interaction	adhesion
+UTI89	M278	3413527	3418501	host interaction	adhesion
+APEC	M278	3486433	3491407	host interaction	adhesion
+ED1a	M278	3634804	3639778	host interaction	adhesion
+IAI39	M277	500603	504470	unknown	unknown
+UMN026	M277	598010	601199	unknown	unknown
+S88	M277	519213	521666	unknown	unknown
+UTI89	M277	529829	532282	unknown	unknown
+APEC	M277	531427	533880	unknown	unknown
+APEC	M276	4706480	4719177	unknown	phage origin
+CFT073	M276	4334434	4341758	unknown	phage origin
+S88	M276	4621161	4633705	unknown	phage origin
+IAI39	M276	4770471	4784107	unknown	phage origin
+ED1a	M276	3414392	3426798	unknown	phage origin
+IAI39	M276	4402026	4415118	unknown	phage origin
+CFT073	M276	257757	261677	unknown	phage origin
+ED1a	M276	4837363	4845778	unknown	phage origin
+ED1a	M276	4940792	4947651	unknown	phage origin
+536	M276	3167566	3177269	unknown	phage origin
+536	M276	4823776	4837150	unknown	phage origin
+APEC	M276	3349670	3361608	unknown	phage origin
+CFT073	M276	4922315	4929628	unknown	phage origin
+S88	M276	3266303	3272973	unknown	phage origin
+UTI89	M276	4884213	4896652	unknown	phage origin
+CFT073	M276	1224407	1241149	unknown	phage origin
+UTI89	M276	1132408	1142619	unknown	phage origin
+536	M276	4016243	4024998	unknown	phage origin
+UMN026	M276	3513658	3528501	unknown	phage origin
+CFT073	M276	3490608	3511592	unknown	phage origin
+536	M274	2114408	2118416	unknown	phage origin
+APEC	M274	2163695	2167518	unknown	phage origin
+CFT073	M274	2364363	2368211	unknown	phage origin
+ED1a	M274	2285735	2287784	unknown	phage origin
+IAI39	M274	1080643	1085822	unknown	phage origin
+UTI89	M274	2214555	2218562	unknown	phage origin
+K12	M274	2076308	2078134	unknown	phage origin
+S88	M274	2074914	2078964	unknown	phage origin
+CFT073	M273	3480627	3490312	unknown	unknown
+S88	M273	2057746	2065627	unknown	unknown
+UMN026	M273	3503291	3512383	unknown	unknown
+536	M271	4755317	4759609	unknown	unknown
+UTI89	M271	4798256	4799995	unknown	unknown
+UMN026	M269	3445924	3452519	host interaction	virulence
+CFT073	M269	3406225	3412808	host interaction	virulence
+536	M270	4772473	4782999	host interaction	defense / immunity
+UTI89	M270	4834537	4844381	host interaction	defense / immunity
+536	M268	4782996	4798579	host interaction	adhesion
+UTI89	M268	4844378	4860021	host interaction	adhesion
+CFT073	M268	309979	322295	host interaction	adhesion
+536	M267	351386	362472	phage	unknown
+S88	M267	4846228	4857026	phage	unknown
+UMN026	M267	5044639	5052365	phage	unknown
+ED1a	M267	5107568	5121678	phage	unknown
+HS	M267	2117919	2124727	phage	unknown
+ED1a	M266	5094645	5107468	phage	unknown
+S88	M266	4834119	4845193	phage	unknown
+UMN026	M266	5031002	5044351	phage	unknown
+HS	M266	2114465	2116733	phage	unknown
+ED1a	M265	2886127	2897982	host interaction	adhesion
+S88	M265	2667132	2678568	host interaction	adhesion
+536	M265	2633760	2645141	host interaction	adhesion
+CFT073	M265	2892642	2904053	host interaction	adhesion
+UTI89	M265	2771501	2782939	host interaction	adhesion
+UMN026	M265	2915699	2927101	host interaction	adhesion
+IAI39	M265	2797857	2809273	host interaction	adhesion
+APEC	M265	2783805	2795240	host interaction	adhesion
+536	M262	294319	304710	metabolism	unknown
+CFT073	M262	1170358	1175588	metabolism	unknown
+536	M263	304806	307892	environment interaction	microbial competition
+CFT073	M263	1180751	1185072	environment interaction	microbial competition
+HS	M261	3665462	3671783	environment interaction	unknown
+K12	M261	3619192	3625514	environment interaction	unknown
+HS	M261	3791257	3796313	environment interaction	unknown
+IAI1	M261	3831491	3837566	environment interaction	unknown
+SE11	M261	4006702	4014842	environment interaction	unknown
+K12	M261	3762183	3766710	environment interaction	unknown
+CFT073	M1	4931923	4939758	host interaction	virulence
+APEC	M1	3341809	3349284	host interaction	virulence
+S88	M1	3256593	3262000	host interaction	virulence
+HS	M2	2800743	2807407	unknown	unknown
+IAI1	M2	2822541	2833485	unknown	unknown
+IAI39	M2	2947201	2954750	unknown	unknown
+UMN026	M2	3080207	3092003	unknown	unknown
+K12	M2	2778146	2788649	unknown	unknown
+CFT073	M4	5178639	5183760	transport	unknown
+IAI39	M4	712428	715227	transport	unknown
+IAI39	M4	5032102	5037221	transport	unknown
+536	M4	4887888	4893007	transport	unknown
+UTI89	M4	4967422	4972541	transport	unknown
+APEC	M4	4983651	4988770	transport	unknown
+ED1a	M4	5156398	5161517	transport	unknown
+K12	M5	4496405	4508617	phage	unknown
+UMN026	M5	5006786	5015221	phage	unknown
+IAI39	M5	4950549	4960474	phage	unknown
+HS	M8	3230856	3235194	host interaction	adhesion
+IAI1	M8	3268841	3273185	host interaction	adhesion
+K12	M8	3185414	3191696	host interaction	adhesion
+IAI39	M8	3691661	3696005	host interaction	adhesion
+SE11	M8	3450166	3454465	host interaction	adhesion
+536	M10	732240	741219	metabolism	unknown
+APEC	M10	682226	691197	metabolism	unknown
+CFT073	M10	738713	747692	metabolism	unknown
+S88	M10	720659	729629	metabolism	unknown
+UTI89	M10	680626	689587	metabolism	unknown
+APEC	M11	888044	897184	environment interaction	phage immunity
+ED1a	M11	883720	892271	environment interaction	phage immunity
+S88	M11	927068	935613	environment interaction	phage immunity
+UTI89	M11	886443	895763	environment interaction	phage immunity
+UTI89	M12	1072720	1080858	environment interaction	biofilm formation
+536	M12	1080203	1088532	environment interaction	biofilm formation
+APEC	M12	1071677	1080007	environment interaction	biofilm formation
+CFT073	M12	1119285	1127423	environment interaction	biofilm formation
+HS	M12	1148405	1157310	environment interaction	biofilm formation
+IAI39	M12	2169852	2178185	environment interaction	biofilm formation
+K12	M12	1086106	1094234	environment interaction	biofilm formation
+S88	M12	1075265	1083595	environment interaction	biofilm formation
+SE11	M12	1169330	1177458	environment interaction	biofilm formation
+APEC	M13	1255974	1262442	transport / metabolism	unknown
+CFT073	M13	1482130	1488749	transport / metabolism	unknown
+ED1a	M13	1324646	1331114	transport / metabolism	unknown
+IAI39	M13	1593809	1600277	transport / metabolism	unknown
+UMN026	M13	1493174	1499642	transport / metabolism	unknown
+UTI89	M13	1317566	1323992	transport / metabolism	unknown
+536	M13	1265285	1271711	transport / metabolism	unknown
+S88	M13	1259586	1266012	transport / metabolism	unknown
+536	M14	1374608	1382100	transport	unknown
+APEC	M14	1410341	1417854	transport	unknown
+CFT073	M14	1595709	1603300	transport	unknown
+ED1a	M14	1471737	1479328	transport	unknown
+IAI39	M14	1702075	1713509	transport	unknown
+S88	M14	1414437	1421950	transport	unknown
+UTI89	M14	1472347	1479938	transport	unknown
+536	M18	1499644	1504488	unknown	unknown
+APEC	M18	1585749	1590594	unknown	unknown
+ED1a	M18	1590333	1594877	unknown	unknown
+S88	M18	1538842	1543687	unknown	unknown
+UMN026	M18	1720572	1724744	unknown	unknown
+UTI89	M18	1596830	1601676	unknown	unknown
+CFT073	M18	1721906	1727730	unknown	unknown
+APEC	M19	1642251	1643648	unknown	unknown
+CFT073	M19	1779388	1781609	unknown	unknown
+S88	M19	1590199	1590853	unknown	unknown
+UTI89	M19	1651437	1652834	unknown	unknown
+APEC	M20	1658206	1664381	transport	cellobiose
+CFT073	M20	1796169	1802345	transport	cellobiose
+HS	M20	1637085	1643282	transport	cellobiose
+IAI1	M20	1630994	1637171	transport	cellobiose
+IAI39	M20	1910370	1916546	transport	cellobiose
+S88	M20	1605411	1611586	transport	cellobiose
+SE11	M20	1721103	1727280	transport	cellobiose
+UTI89	M20	1676979	1683154	transport	cellobiose
+536	M21	241221	265786	unknown	unknown
+APEC	M21	242282	266439	unknown	unknown
+ED1a	M21	241877	266694	unknown	unknown
+HS	M21	236529	260397	unknown	unknown
+IAI1	M21	236511	260431	unknown	unknown
+S88	M21	241898	266460	unknown	unknown
+SE11	M21	238907	265321	unknown	unknown
+UMN026	M21	240002	264517	unknown	unknown
+UTI89	M21	241899	266461	unknown	unknown
+536	M22	265893	268636	unknown	unknown
+APEC	M22	266546	269289	unknown	unknown
+S88	M22	266567	269310	unknown	unknown
+UTI89	M22	266568	269311	unknown	unknown
+S88	M23	269568	271646	unknown	unknown
+536	M23	268894	270972	unknown	unknown
+APEC	M23	269547	271625	unknown	unknown
+ED1a	M23	271467	273545	unknown	unknown
+UMN026	M23	268336	273862	unknown	unknown
+UTI89	M23	269569	271647	unknown	unknown
+536	M26	1971081	2003097	metabolism	iron 
+APEC	M26	2088398	2122574	metabolism	iron 
+CFT073	M26	2217922	2250644	metabolism	iron 
+ED1a	M26	2164081	2194603	metabolism	iron 
+IAI39	M26	1131063	1163091	metabolism	iron 
+S88	M26	1998228	2030247	metabolism	iron 
+UMN026	M26	2277355	2307877	metabolism	iron 
+UTI89	M26	2069800	2101820	metabolism	iron 
+536	M27	2083687	2088460	unknown	unknown
+APEC	M27	2140373	2145339	unknown	unknown
+CFT073	M27	2331632	2335986	unknown	unknown
+ED1a	M27	2273270	2280518	unknown	unknown
+S88	M27	2047732	2053008	unknown	unknown
+IAI39	M27	1096933	1103397	unknown	unknown
+UTI89	M27	2184241	2188594	unknown	unknown
+536	M28	2108595	2114187	unknown	unknown
+APEC	M28	2155537	2163484	unknown	unknown
+CFT073	M28	264296	269005	unknown	unknown
+CFT073	M28	2358550	2364142	unknown	unknown
+IAI39	M28	1085909	1092627	unknown	unknown
+S88	M28	2066746	2074693	unknown	unknown
+UTI89	M28	2208742	2214334	unknown	unknown
+536	M29	2088500	2092185	unknown	unknown
+APEC	M29	2145379	2151708	unknown	unknown
+CFT073	M29	2336026	2339871	unknown	unknown
+ED1a	M29	2280558	2285653	unknown	unknown
+HS	M29	2104500	2114230	unknown	unknown
+S88	M29	2053152	2057351	unknown	unknown
+UTI89	M29	2188634	2192479	unknown	unknown
+536	M34	362627	369466	host interaction	virulence
+APEC	M34	307519	314358	host interaction	virulence
+CFT073	M34	370224	377854	host interaction	virulence
+S88	M34	295064	302742	host interaction	virulence
+UTI89	M34	305699	313378	host interaction	virulence
+536	M37	381007	387315	metabolism	unknown
+APEC	M37	325899	332207	metabolism	unknown
+CFT073	M37	388835	395145	metabolism	unknown
+IAI39	M37	426844	433231	metabolism	unknown
+S88	M37	313674	319982	metabolism	unknown
+UMN026	M37	356495	363787	metabolism	unknown
+UTI89	M37	324309	330617	metabolism	unknown
+536	M40	2859463	2861282	metabolism	unknown
+APEC	M40	3041324	3043143	metabolism	unknown
+CFT073	M40	3147766	3149585	metabolism	unknown
+ED1a	M40	3129786	3131605	metabolism	unknown
+S88	M40	2958636	2960455	metabolism	unknown
+UTI89	M40	3026746	3028565	metabolism	unknown
+536	M41	2940904	2957324	unknown	unknown
+APEC	M41	3116457	3128826	unknown	unknown
+CFT073	M41	3222311	3234655	unknown	unknown
+S88	M41	3033827	3046196	unknown	unknown
+UTI89	M41	3101950	3114319	unknown	unknown
+APEC	M42	3128846	3144234	unknown	unknown
+S88	M42	3046168	3050907	unknown	unknown
+UTI89	M42	3114339	3126918	unknown	unknown
+536	M43	2960533	2972824	unknown	unknown
+APEC	M43	3144371	3149499	unknown	unknown
+CFT073	M43	3239189	3249510	unknown	unknown
+S88	M43	3050917	3064283	unknown	unknown
+UTI89	M43	3127288	3131742	unknown	unknown
+536	M44	2972904	2978133	transport / metabolism	sugar  
+APEC	M44	3149801	3155087	transport / metabolism	sugar  
+CFT073	M44	3249590	3255067	transport / metabolism	sugar  
+ED1a	M44	3204886	3210328	transport / metabolism	sugar  
+S88	M44	3064585	3069871	transport / metabolism	sugar  
+UTI89	M44	3132718	3138183	transport / metabolism	sugar  
+536	M45	4735147	4743170	unknown	unknown
+APEC	M45	3305290	3315460	unknown	unknown
+IAI39	M45	4795076	4802186	unknown	unknown
+S88	M45	3219801	3229368	unknown	unknown
+UTI89	M45	4778112	4786156	unknown	unknown
+536	M46	4746135	4755251	host interaction	adhesion
+APEC	M46	3315994	3325093	host interaction	adhesion
+CFT073	M46	3428532	3438690	host interaction	adhesion
+CFT073	M46	4939758	4949944	host interaction	adhesion
+IAI39	M46	3549997	3556665	host interaction	adhesion
+IAI39	M46	4784164	4794901	host interaction	adhesion
+S88	M46	3229672	3239877	host interaction	adhesion
+UMN026	M46	3452869	3464532	host interaction	adhesion
+UTI89	M46	4788287	4798190	host interaction	adhesion
+APEC	M47	3325337	3328694	unknown	unknown
+CFT073	M47	4949967	4953542	unknown	unknown
+IAI39	M47	4394142	4396749	unknown	unknown
+S88	M47	3240072	3243478	unknown	unknown
+536	M48	3140894	3147847	transport	other
+APEC	M48	3328729	3335360	transport	other
+CFT073	M48	4953577	4960208	transport	other
+S88	M48	3243921	3250144	transport	other
+APEC	M49	3335953	3341638	host interaction	virulence
+CFT073	M49	4960417	4971660	host interaction	virulence
+S88	M49	3250353	3256434	host interaction	virulence
+536	M50	3178080	3184178	host interaction	protection
+APEC	M50	3362058	3370011	host interaction	protection
+CFT073	M50	3512056	3520042	host interaction	protection
+ED1a	M50	3511600	3519586	host interaction	protection
+IAI39	M50	3584014	3591133	host interaction	protection
+S88	M50	3273058	3284803	host interaction	protection
+UMN026	M50	3528933	3537843	host interaction	protection
+UTI89	M50	3287922	3297104	host interaction	protection
+APEC	M51	3370161	3376609	host interaction	protection
+IAI39	M51	3591283	3597731	host interaction	protection
+S88	M51	3284953	3291401	host interaction	protection
+UTI89	M51	3297254	3303702	host interaction	protection
+536	M56	3262884	3270508	transport / metabolism	unknown
+APEC	M56	3444897	3452370	transport / metabolism	unknown
+CFT073	M56	3583042	3590515	transport / metabolism	unknown
+ED1a	M56	3593282	3600745	transport / metabolism	unknown
+S88	M56	3359689	3367162	transport / metabolism	unknown
+UTI89	M56	3371990	3379463	transport / metabolism	unknown
+536	M57	3281314	3288506	transport	iron
+APEC	M57	3464894	3472086	transport	iron
+CFT073	M57	3603039	3610231	transport	iron
+ED1a	M57	3613268	3620460	transport	iron
+S88	M57	3379686	3386878	transport	iron
+UTI89	M57	3391987	3399179	transport	iron
+536	M58	3508676	3517172	transport / metabolism	sugar
+APEC	M58	3689655	3698150	transport / metabolism	sugar
+CFT073	M58	3830557	3839050	transport / metabolism	sugar
+ED1a	M58	3839612	3848108	transport / metabolism	sugar
+IAI39	M58	3913352	3921848	transport / metabolism	sugar
+S88	M58	3604447	3612942	transport / metabolism	sugar
+UTI89	M58	3616743	3625238	transport / metabolism	sugar
+536	M59	402210	408194	host interaction	adhesion
+APEC	M59	347106	353092	host interaction	adhesion
+CFT073	M59	410042	416027	host interaction	adhesion
+HS	M59	376124	382478	host interaction	adhesion
+S88	M59	334880	340867	host interaction	adhesion
+SE11	M59	359630	365627	host interaction	adhesion
+UTI89	M59	345514	351500	host interaction	adhesion
+APEC	M61	370098	375195	transport	sugar
+ED1a	M61	369696	374826	transport	sugar
+HS	M61	403659	408786	transport	sugar
+IAI1	M61	352228	357356	transport	sugar
+IAI39	M61	390093	395220	transport	sugar
+S88	M61	357843	362970	transport	other
+SE11	M61	382596	387693	transport	sugar
+UMN026	M61	395580	400710	transport	sugar
+UTI89	M61	368476	373603	transport	sugar
+536	M62	3563158	3572599	host interaction	virulence
+APEC	M62	3744233	3753692	host interaction	virulence
+CFT073	M62	3884884	3894310	host interaction	virulence
+ED1a	M62	3894895	3904318	host interaction	virulence
+HS	M62	3497851	3507274	host interaction	virulence
+K12	M62	3453508	3462931	host interaction	virulence
+S88	M62	3659023	3668464	host interaction	virulence
+UTI89	M62	3671318	3680759	host interaction	virulence
+536	M63	3572592	3577847	host interaction	virulence
+APEC	M63	3753685	3756984	host interaction	virulence
+CFT073	M63	3894303	3897599	host interaction	virulence
+HS	M63	3507267	3510563	host interaction	virulence
+K12	M63	3462924	3466220	host interaction	virulence
+S88	M63	3668457	3671753	host interaction	virulence
+UTI89	M63	3680752	3684048	host interaction	virulence
+536	M65	3578787	3581489	metabolism	energy
+APEC	M65	3757924	3760879	metabolism	energy
+CFT073	M65	3898539	3901241	metabolism	energy
+ED1a	M65	3904356	3907274	metabolism	energy
+HS	M65	3511503	3514196	metabolism	energy
+K12	M65	3467160	3469853	metabolism	energy
+S88	M65	3672693	3675395	metabolism	energy
+UTI89	M65	3684988	3687933	metabolism	energy
+536	M66	3670112	3672209	unknown	unknown
+APEC	M66	3849163	3851251	unknown	unknown
+CFT073	M66	3990197	3992285	unknown	unknown
+ED1a	M66	3995384	3997472	unknown	unknown
+IAI1	M66	3630184	3633804	unknown	unknown
+S88	M66	3763922	3766010	unknown	unknown
+SE11	M66	3812078	3815686	unknown	unknown
+UTI89	M66	3816387	3818475	unknown	unknown
+536	M67	3672383	3679538	host interaction	adhesion
+APEC	M67	3851424	3858586	host interaction	adhesion
+CFT073	M67	3992579	3999956	host interaction	adhesion
+ED1a	M67	3997646	4006833	host interaction	adhesion
+S88	M67	3766183	3773337	host interaction	adhesion
+UMN026	M67	3989994	3997188	host interaction	adhesion
+UTI89	M67	3818648	3825802	host interaction	adhesion
+APEC	M68	3918463	3924072	transport	unknown
+CFT073	M68	4057486	4063442	transport	unknown
+IAI39	M68	4120170	4126194	transport	unknown
+S88	M68	3833203	3838812	transport	unknown
+UMN026	M68	4067763	4073371	transport	unknown
+UTI89	M68	3885668	3891277	transport	unknown
+536	M69	3760653	3769605	transport / metabolism	other
+APEC	M69	3945825	3954777	transport / metabolism	other
+CFT073	M69	4084996	4093948	transport / metabolism	other
+ED1a	M69	4082735	4091687	transport / metabolism	other
+IAI39	M69	4157581	4166533	transport / metabolism	other
+S88	M69	3860565	3869517	transport / metabolism	other
+UMN026	M69	4105320	4114272	transport / metabolism	other
+UTI89	M69	3913030	3921982	transport / metabolism	other
+536	M71	3936548	3943491	transport	sugar
+APEC	M71	4123403	4130346	transport	sugar
+CFT073	M71	4263077	4270065	transport	sugar
+ED1a	M71	4265157	4272100	transport	sugar
+IAI39	M71	4350156	4357099	transport	sugar
+S88	M71	4038130	4045073	transport	sugar
+UTI89	M71	4090607	4097550	transport	sugar
+536	M74	4199888	4201595	unknown	unknown
+APEC	M74	4312373	4314080	unknown	unknown
+CFT073	M74	4519621	4521856	unknown	unknown
+S88	M74	4226926	4228678	unknown	unknown
+UTI89	M74	4280196	4282110	unknown	unknown
+536	M75	4202080	4215507	transport / metabolism	sugar
+APEC	M75	4314532	4327992	transport / metabolism	sugar 
+CFT073	M75	4521963	4535517	transport / metabolism	sugar 
+ED1a	M75	4453065	4466524	transport / metabolism	sugar 
+S88	M75	4229085	4242545	transport / metabolism	sugar 
+UTI89	M75	4282538	4295908	transport / metabolism	sugar 
+536	M76	4217634	4223073	metabolism	unknown
+APEC	M76	4330119	4335761	metabolism	unknown
+CFT073	M76	4537529	4543055	metabolism	unknown
+ED1a	M76	4468651	4474177	metabolism	unknown
+IAI39	M76	3304163	3309689	metabolism	unknown
+S88	M76	4244672	4250198	metabolism	unknown
+UTI89	M76	4298104	4303630	metabolism	unknown
+536	M77	4331765	4338955	metabolism	unknown
+APEC	M77	4441373	4448563	metabolism	unknown
+CFT073	M77	4652055	4659245	metabolism	unknown
+IAI39	M77	3173360	3180555	metabolism	unknown
+S88	M77	4356023	4363213	metabolism	unknown
+UMN026	M77	4618922	4621738	metabolism	unknown
+ED1a	M77	4583776	4587469	metabolism	unknown
+UTI89	M77	4409359	4416549	metabolism	unknown
+S88	M78	4463801	4469598	metabolism	CAT_L-sorbose
+536	M78	4439805	4445518	metabolism	CAT_L-sorbose
+APEC	M78	4549273	4555031	metabolism	CAT_L-sorbose
+CFT073	M78	4760099	4765896	metabolism	CAT_L-sorbose
+ED1a	M78	4688196	4693993	metabolism	CAT_L-sorbose
+IAI39	M78	4614810	4621379	metabolism	CAT_L-sorbose
+UMN026	M78	4719145	4724942	metabolism	CAT_L-sorbose
+UTI89	M78	4476696	4482768	metabolism	CAT_L-sorbose
+APEC	M79	4584005	4591167	metabolism	unknown
+CFT073	M79	4794814	4801976	metabolism	unknown
+S88	M79	4498533	4505695	metabolism	unknown
+UTI89	M79	4511703	4518865	metabolism	unknown
+536	M80	4480842	4494235	metabolism	energy
+APEC	M80	4596819	4610264	metabolism	energy
+CFT073	M80	4808228	4821696	metabolism	energy
+ED1a	M80	4726988	4740454	metabolism	energy
+S88	M80	4511272	4524740	metabolism	energy
+UTI89	M80	4524442	4538178	metabolism	energy
+536	M81	4524499	4529569	transport	other
+APEC	M81	4638439	4643509	transport	other
+CFT073	M81	4850933	4856003	transport	other
+ED1a	M81	4769169	4774239	transport	other
+S88	M81	4552967	4558037	transport	other
+UTI89	M81	4566137	4571207	transport	other
+536	M82	4539595	4546524	metabolism	CAT_D-allose
+APEC	M82	4653536	4660465	metabolism	CAT_D-allose
+CFT073	M82	4866029	4872958	metabolism	CAT_D-allose
+ED1a	M82	4784266	4791196	metabolism	CAT_D-allose
+IAI39	M82	4715240	4722170	metabolism	CAT_D-allose
+K12	M82	4306870	4313799	metabolism	CAT_D-allose
+S88	M82	4568064	4574993	metabolism	CAT_D-allose
+SE11	M82	4578151	4585081	metabolism	CAT_D-allose
+UTI89	M82	4581234	4588164	metabolism	CAT_D-allose
+APEC	M83	4719062	4749331	metabolism	ethanolamine catabolism / propanediol catabolism 
+ED1a	M83	3384683	3414344	metabolism	ethanolamine catabolism / propanediol catabolism 
+S88	M83	4633741	4663993	metabolism	ethanolamine catabolism / propanediol catabolism 
+CFT073	M83	4299658	4333894	metabolism	ethanolamine catabolism / propanediol catabolism 
+APEC	M84	4749331	4754890	unknown	unknown
+S88	M84	4663993	4669232	unknown	unknown
+CFT073	M84	4294329	4299658	unknown	unknown
+APEC	M85	4754911	4763565	metabolism	unknown
+S88	M85	4669367	4678227	metabolism	unknown
+CFT073	M85	4283366	4294284	metabolism	unknown
+ED1a	M85	3374807	3384806	metabolism	unknown
+APEC	M86	4763708	4770462	host interaction	virulence 
+S88	M86	4678421	4685124	host interaction	virulence 
+IAI39	M86	3545466	3549530	host interaction	virulence 
+CFT073	M86	4274308	4277520	host interaction	virulence 
+536	M87	4656197	4659671	unknown	unknown
+APEC	M87	4834406	4836168	unknown	unknown
+CFT073	M87	5035027	5036790	unknown	unknown
+ED1a	M87	4984076	4985838	unknown	unknown
+S88	M87	4749068	4752250	unknown	unknown
+UTI89	M87	4698682	4702535	unknown	unknown
+536	M88	4659764	4666673	metabolism	unknown
+APEC	M88	4836311	4844588	metabolism	unknown
+CFT073	M88	5036933	5045212	metabolism	unknown
+ED1a	M88	4985981	4994260	metabolism	unknown
+HS	M88	4454269	4461187	metabolism	unknown
+IAI39	M88	4867157	4875436	metabolism	unknown
+S88	M88	4752343	4759252	metabolism	unknown
+SE11	M88	4701628	4708534	metabolism	unknown
+UTI89	M88	4702734	4709641	metabolism	unknown
+K12	M90	4508574	4519224	transport	iron
+ED1a	M90	5080979	5093919	transport	iron
+IAI39	M90	4967709	4977979	transport	iron
+S88	M90	4822907	4833776	transport	iron
+UMN026	M90	5019941	5030710	transport	iron
+S88	M91	4857954	4862118	metabolism	methionine salvage pathway
+UMN026	M91	5053293	5057457	metabolism	methionine salvage pathway
+K12	M92	4519338	4536031	phage	unknown
+S88	M92	4862159	4878852	phage	unknown
+UMN026	M92	5057498	5075358	phage	unknown
+536	M98	123276	126741	host interaction	defense / immunity
+APEC	M98	124381	127846	host interaction	defense / immunity
+CFT073	M98	127216	132257	host interaction	defense / immunity
+ED1a	M98	124261	127726	host interaction	defense / immunity
+S88	M98	124400	127865	host interaction	defense / immunity
+UTI89	M98	124400	127865	host interaction	defense / immunity
+536	M99	2543331	2547815	metabolism	xanthosine catabolism
+APEC	M99	2653388	2658195	metabolism	xantosine catabolism
+CFT073	M99	2802286	2806770	metabolism	xanthosine catabolism
+ED1a	M99	2795795	2800280	metabolism	xanthosine catabolism
+IAI39	M99	2644927	2651650	metabolism	xanthosine catabolism
+K12	M99	2521253	2525891	metabolism	xanthosine catabolism
+S88	M99	2576805	2581290	metabolism	xanthosine catabolism
+SE11	M99	2788009	2792647	metabolism	xanthosine catabolism
+UTI89	M99	2681173	2685658	metabolism	xanthosine catabolism
+APEC	M101	3893844	3898939	transport / metabolism	sugar
+S88	M101	3809370	3813679	transport / metabolism	sugar
+UTI89	M101	3861904	3866144	transport / metabolism	sugar
+APEC	M102	4286909	4289721	unknown	unknown
+CFT073	M102	4494307	4497122	unknown	unknown
+HS	M102	4020945	4023736	unknown	unknown
+IAI1	M102	4068939	4071757	unknown	unknown
+IAI39	M102	3085037	3087094	unknown	unknown
+S88	M102	4201611	4204423	unknown	unknown
+SE11	M102	4246698	4252627	unknown	unknown
+UTI89	M102	4254118	4257706	unknown	unknown
+536	M104	1947489	1970089	unknown	unknown
+CFT073	M104	2194512	2216930	unknown	unknown
+536	M105	2015204	2069700	host interaction	virulence
+CFT073	M105	2262749	2317230	PAI	
+UTI89	M105	2113924	2168385	PAI	
+536	M106	2073594	2079171	unknown	unknown
+CFT073	M106	2321117	2327144	unknown	unknown
+IAI39	M106	1108148	1115000	unknown	unknown
+UTI89	M106	2171969	2177925	unknown	unknown
+536	M107	2092100	2097976	unknown	unknown
+CFT073	M107	2340134	2347933	unknown	unknown
+UTI89	M107	2193083	2201813	unknown	unknown
+536	M108	2097976	2108377	transport	iron
+CFT073	M108	2347930	2358332	transport	iron
+UTI89	M108	2202138	2208524	transport	iron
+CFT073	M108	274013	280306	transport	iron
+536	M109	2142664	2150521	host interaction	defense / immunity
+CFT073	M109	2392456	2400331	host interaction	defense / immunity
+536	M110	2496761	2502332	metabolism	CAT_Sucrose2
+IAI1	M110	2510204	2515791	metabolism	CAT_Sucrose2
+SE11	M110	2741431	2746831	metabolism	CAT_Sucrose2
+UMN026	M110	2765909	2771507	metabolism	CAT_Sucrose2
+536	M112	2889019	2895497	metabolism	CAT_Sucrose1
+IAI39	M112	3066836	3073314	metabolism	CAT_Sucrose1
+536	M115	3148065	3152658	metabolism	CAT_Deoxyribose
+CFT073	M115	300643	305696	metabolism	CAT_Deoxyribose
+ED1a	M115	339839	344089	metabolism	CAT_Deoxyribose
+536	M116	3152618	3167271	unknown	unknown
+CFT073	M116	279920	288786	unknown	unknown
+536	M118	3357543	3362644	host interaction	adhesion
+HS	M118	3290163	3295269	host interaction	adhesion
+IAI1	M118	3327633	3332740	host interaction	adhesion
+IAI39	M118	3753167	3758273	host interaction	adhesion
+SE11	M118	3509195	3514302	host interaction	adhesion
+536	M120	3959407	3969846	host interaction	adhesion
+UTI89	M120	4800111	4811038	host interaction	adhesion
+536	M123	308401	338993	host interaction / transport	adhesion / iron
+CFT073	M123	1185274	1219061	host interaction / transport	adhesion / iron
+UTI89	M123	1095483	1127064	host interaction / transport	adhesion / iron
+IAI39	M124	4944282	4949330	metabolism	CAT_L-idonate
+K12	M124	4490141	4495186	metabolism	CAT_L-idonate
+UMN026	M124	4977653	4982698	metabolism	CAT_L-idonate
+UTI89	M124	4771845	4776893	metabolism	CAT_L-idonate
+536	M124	4728876	4733928	metabolism	CAT_L-idonate
+APEC	M124	4906793	4911841	metabolism	CAT_L-idonate
+CFT073	M124	5109075	5114123	metabolism	CAT_L-idonate
+ED1a	M124	5059373	5064420	metabolism	CAT_L-idonate
+HS	M124	4526267	4531315	metabolism	CAT_L-idonate
+536	M125	4743388	4746134	unknown	unknown
+UTI89	M125	4786359	4787802	unknown	unknown
+CFT073	M126	3413218	3425843	host interaction	virulence
+536	M126	4759757	4772393	host interaction	virulence
+536	M126	3993046	4000505	host interaction	virulence
+UTI89	M126	4821149	4834208	host interaction	virulence
+536	M127	4803604	4823723	environment interaction / metabolism	microbial competition / unknown
+IAI39	M127	4369119	4389929	environment interaction / metabolism	microbial competition / unknown
+UTI89	M127	4865064	4883634	environment interaction / metabolism	microbial competition / unknown
+536	M128	4837169	4841633	unknown	unknown
+APEC	M128	4913262	4917397	unknown	unknown
+UTI89	M128	4896671	4901168	unknown	unknown
+536	M129	4871779	4882297	host interaction	defense / immunity
+CFT073	M129	5162553	5173048	host interaction	defense / immunity
+ED1a	M129	5140253	5150807	host interaction	defense / immunity
+IAI39	M129	5016090	5026578	host interaction	defense / immunity
+536	M131	4266034	4269099	metabolism	sugar
+CFT073	M131	4585831	4588896	metabolism	sugar
+HS	M131	4090586	4093651	metabolism	sugar
+IAI1	M131	4140207	4143272	metabolism	sugar
+IAI39	M131	3255461	3260129	metabolism	sugar
+K12	M131	4060447	4063512	metabolism	sugar
+SE11	M131	4320633	4323698	metabolism	sugar
+UMN026	M131	4546781	4551107	metabolism	sugar
+536	M132	4709501	4714754	metabolism	arginine catabolism
+APEC	M132	4887416	4893003	metabolism	unknown
+CFT073	M132	5089473	5095174	metabolism	unknown
+ED1a	M132	5039772	5045254	metabolism	unknown
+IAI39	M132	4924628	4930110	metabolism	unknown
+UTI89	M132	4752245	4757945	metabolism	unknown
+CFT073	M133	1127702	1142593	metabolism	sugar 
+UTI89	M133	1081137	1095591	metabolism	sugar 
+UMN026	M134	4046524	4061552	metabolism	fatty acid degradation
+CFT073	M134	1142429	1158294	metabolism	unknown
+CFT073	M137	1219282	1224107	unknown	unknown
+UTI89	M137	1127725	1132054	unknown	unknown
+CFT073	M139	1715945	1721794	unknown	unknown
+UMN026	M139	264514	268026	unknown	unknown
+CFT073	M146	2746725	2758675	host interaction	adhesion
+IAI39	M146	2588498	2598089	host interaction	adhesion
+CFT073	M148	3439023	3443826	unknown	unknown
+IAI39	M148	3562104	3567734	unknown	unknown
+UMN026	M148	3464805	3467892	unknown	unknown
+CFT073	M149	3444110	3454965	unknown	unknown
+UMN026	M149	3468176	3478064	unknown	unknown
+ED1a	M149	4965329	4968599	unknown	unknown
+CFT073	M150	3454962	3459277	host interaction	virulence
+UMN026	M150	3478061	3484306	host interaction	virulence
+CFT073	M151	3461193	3470471	transport	iron
+ED1a	M151	4858683	4868333	transport	iron
+IAI39	M151	3567847	3577147	transport	iron
+UMN026	M151	3484292	3493570	transport	iron
+CFT073	M152	3469679	3480962	metabolism	CAT_N-acetylneuraminic acid
+ED1a	M152	4868361	4881274	metabolism	CAT_N-acetylneuraminic acid
+UMN026	M152	3493729	3503263	metabolism	CAT_N-acetylneuraminic acid
+APEC	M157	2196749	2200222	host interaction	defense / immunity
+HS	M157	2158187	2161638	host interaction	defense / immunity
+IAI39	M157	1041813	1045284	host interaction	defense / immunity
+K12	M157	2109581	2113061	host interaction	defense / immunity
+UTI89	M157	2246644	2250126	host interaction	defense / immunity
+APEC	M160	4935973	4956148	metabolism	unknown
+UTI89	M160	4919744	4939919	metabolism	unknown
+APEC	M161	4967505	4978092	host interaction	defense / immunity
+K12	M161	4579499	4587863	host interaction	defense / immunity
+UMN026	M161	5124064	5132428	host interaction	defense / immunity
+UTI89	M161	4951172	4961863	host interaction	defense / immunity
+HS	M162	2895086	2904452	environment interaction	phage immunity
+K12	M162	2878569	2887219	environment interaction	phage immunity
+HS	M164	617743	624018	host interaction	adhesion
+IAI1	M164	572525	579926	host interaction	adhesion
+IAI39	M164	525986	532261	host interaction	adhesion
+K12	M164	558212	564480	host interaction	adhesion
+SE11	M164	601722	608012	host interaction	adhesion
+UMN026	M164	638333	644608	host interaction	adhesion
+IAI1	M166	678290	686112	unknown	unknown
+K12	M166	675570	683393	unknown	unknown
+SE11	M166	760463	768284	unknown	unknown
+UMN026	M166	789075	796898	unknown	unknown
+IAI39	M167	737123	750099	metabolism	unknown
+UMN026	M167	864651	878293	metabolism	unknown
+CFT073	M168	4277483	4282768	metabolism	unknown
+UMN026	M168	1034718	1041027	metabolism	unknown
+HS	M169	1405137	1414268	metabolism	CAT_putrescine
+IAI1	M169	1378742	1387755	metabolism	CAT_putrescine
+IAI39	M169	1719531	1728419	metabolism	CAT_putrescine
+K12	M169	1357802	1366815	metabolism	CAT_putrescine
+SE11	M169	1420867	1429880	metabolism	CAT_putrescine
+UMN026	M169	1609659	1618547	metabolism	CAT_putrescine
+HS	M171	1573924	1579888	transport	other
+IAI1	M171	1564072	1570036	transport	other
+IAI39	M171	1834254	1840218	transport	other
+K12	M171	1557112	1563076	transport	other
+SE11	M171	1654180	1660144	transport	other
+UMN026	M171	1755068	1761032	transport	other
+HS	M173	1609488	1624111	environment interaction	quorum sensing
+IAI1	M173	1602899	1617522	environment interaction	quorum sensing
+IAI39	M173	1870426	1873607	environment interaction	quorum sensing
+K12	M173	1592665	1607289	environment interaction	quorum sensing
+SE11	M173	1693008	1707631	environment interaction	quorum sensing
+UMN026	M173	1801701	1816315	environment interaction	quorum sensing
+HS	M174	1898863	1905012	metabolism	unknown
+IAI1	M174	1926448	1932597	metabolism	unknown
+IAI39	M174	1316923	1323072	metabolism	unknown
+K12	M174	1880886	1886810	metabolism	unknown
+SE11	M174	2051735	2057884	metabolism	unknown
+UMN026	M174	2114093	2120242	metabolism	unknown
+ED1a	M175	2195417	2214497	host interaction	virulence
+UMN026	M175	2308691	2329098	host interaction	virulence
+HS	M178	2623108	2636719	metabolism	energy
+IAI1	M178	2625347	2638968	metabolism	energy
+IAI39	M178	2717925	2731554	metabolism	energy
+K12	M178	2601201	2614782	metabolism	energy
+SE11	M178	2860552	2874173	metabolism	energy
+UMN026	M178	2880506	2894135	metabolism	energy
+HS	M179	2705563	2710806	metabolism	CAT_3-phenylpropionate
+IAI1	M179	2691713	2696955	metabolism	CAT_3-phenylpropionate
+IAI39	M179	2841204	2846447	metabolism	CAT_3-phenylpropionate
+K12	M179	2668006	2673249	metabolism	CAT_3-phenylpropionate
+SE11	M179	2926913	2932156	metabolism	CAT_3-phenylpropionate
+UMN026	M179	2959508	2964751	metabolism	CAT_3-phenylpropionate
+IAI1	M180	2927872	2936430	environment interaction	phage immunity
+SE11	M180	3116487	3125006	environment interaction	phage immunity
+UMN026	M180	3181806	3191256	environment interaction	phage immunity
+HS	M182	3005797	3012969	unknown	unknown
+IAI1	M182	3038839	3045719	unknown	unknown
+IAI39	M182	3416070	3426345	unknown	unknown
+K12	M182	2987536	2994415	unknown	unknown
+SE11	M182	3226251	3233191	unknown	unknown
+UMN026	M182	3294163	3301309	unknown	unknown
+HS	M183	3013014	3014885	unknown	unknown
+IAI1	M183	3045764	3047846	unknown	unknown
+K12	M183	2994460	2999057	unknown	unknown
+SE11	M183	3233236	3235318	unknown	unknown
+UMN026	M183	3301328	3303413	unknown	unknown
+HS	M184	3014913	3026572	host interaction	virulence
+IAI1	M184	3047862	3057313	host interaction	virulence
+SE11	M184	3235334	3244783	host interaction	virulence
+UMN026	M184	3303429	3310834	host interaction	virulence
+IAI1	M188	300633	306027	metabolism	unknown
+K12	M188	297381	302573	metabolism	unknown
+SE11	M188	328321	333513	metabolism	unknown
+UMN026	M188	340183	346247	metabolism	unknown
+UMN026	M189	4212157	4217405	unknown	unknown
+IAI39	M189	4265725	4270156	unknown	unknown
+IAI39	M190	4419601	4435146	unknown	unknown
+UMN026	M190	4301382	4318672	unknown	unknown
+HS	M191	3885981	3891786	transport	other
+UMN026	M191	4344393	4348343	transport	other
+IAI1	M191	3932459	3935901	transport	other
+IAI39	M191	4459570	4463520	transport	other
+K12	M191	3861173	3864615	transport	other
+SE11	M191	4110188	4113630	transport	other
+IAI39	M192	4497916	4504792	unknown	unknown
+UMN026	M192	4381304	4388194	unknown	unknown
+ED1a	M193	4516927	4525852	metabolism	unknown
+IAI1	M193	4143363	4151516	metabolism	unknown
+IAI39	M193	3247345	3255369	metabolism	unknown
+K12	M193	4063603	4071756	metabolism	unknown
+SE11	M193	4323789	4331942	metabolism	unknown
+UMN026	M193	4551199	4559285	metabolism	unknown
+UMN026	M194	5015273	5019856	host interaction	virulence
+IAI39	M194	4960500	4967653	host interaction	virulence
+ED1a	M194	5073450	5080814	host interaction	virulence
+K12	M195	4570162	4579337	host interaction	defense / immunity
+UMN026	M195	5109521	5123902	host interaction	defense / immunity
+HS	M196	4583439	4594832	metabolism	CAT_4-hydroxyphenylacetate
+IAI1	M196	4639088	4650533	metabolism	CAT_4-hydroxyphenylacetate
+SE11	M196	4827394	4838787	metabolism	CAT_4-hydroxyphenylacetate
+UMN026	M196	5136012	5148852	metabolism	CAT_4-hydroxyphenylacetate
+ED1a	M198	394715	403397	metabolism	CAT_3hydroxyphenylpropionate
+HS	M198	432093	440774	metabolism	CAT_3hydroxyphenylpropionate
+IAI1	M198	382044	390725	metabolism	CAT_3hydroxyphenylpropionate
+IAI39	M198	355774	364458	metabolism	CAT_3hydroxyphenylpropionate
+K12	M198	367587	376670	metabolism	CAT_3hydroxyphenylpropionate
+SE11	M198	412380	421061	metabolism	CAT_3hydroxyphenylpropionate
+UMN026	M198	425949	434630	metabolism	CAT_3hydroxyphenylpropionate
+IAI1	M199	2912628	2915449	metabolism	unknown
+IAI39	M199	3032749	3035570	metabolism	unknown
+SE11	M199	3100937	3103758	metabolism	unknown
+UMN026	M199	3167450	3170271	metabolism	unknown
+IAI1	M200	3694851	3698324	unknown	unknown
+IAI39	M200	4131828	4136925	unknown	unknown
+K12	M200	3630968	3634458	unknown	unknown
+SE11	M200	3876014	3879487	unknown	unknown
+UMN026	M200	4078751	4082408	unknown	unknown
+UMN026	M201	2329140	2342945	host interaction	adhesion 
+HS	M209	1059475	1066272	host interaction	adhesion
+IAI1	M209	1050286	1057087	host interaction	adhesion
+IAI39	M209	2249717	2256504	host interaction	adhesion
+K12	M209	997868	1004657	host interaction	adhesion
+SE11	M209	1081980	1088772	host interaction	adhesion
+HS	M214	3780431	3782269	unknown	unknown
+IAI1	M214	3820665	3822503	unknown	unknown
+IAI39	M214	4270277	4272115	unknown	unknown
+K12	M214	3751128	3752966	unknown	unknown
+SE11	M214	3995646	3997484	unknown	unknown
+HS	M217	4537492	4541405	unknown	unknown
+IAI39	M217	4978466	4983914	unknown	unknown
+HS	M218	4023824	4024818	unknown	unknown
+IAI1	M218	4072095	4072790	unknown	unknown
+IAI39	M218	3084140	3084950	unknown	unknown
+SE11	M218	4252668	4253363	unknown	unknown
+ED1a	M229	4146883	4153101	host interaction	adhesion
+IAI1	M229	3776060	3781505	host interaction	adhesion
+HS	M233	791126	797897	transport	unknown
+IAI1	M233	765066	770879	transport	unknown
+K12	M233	765050	770611	transport	unknown
+SE11	M233	847237	853050	transport	unknown
+HS	M234	1103644	1111376	metabolism	unknown
+IAI1	M234	1094471	1102185	metabolism	unknown
+K12	M234	1042030	1050530	metabolism	unknown
+SE11	M234	1126144	1133876	metabolism	unknown
+HS	M235	1469570	1488254	metabolism	catabolism phenylacetic acid
+IAI1	M235	1444596	1463279	metabolism	catabolism phenylacetic acid
+K12	M235	1446378	1465061	metabolism	catabolism phenylacetic acid
+SE11	M235	1539369	1558052	metabolism	catabolism phenylacetic acid
+HS	M237	2143116	2158006	host interaction	defense / immunity
+IAI1	M237	2147478	2160704	host interaction	defense / immunity
+IAI1	M240	537711	544512	environment interaction	unknown
+K12	M240	523261	530016	environment interaction	unknown
+SE11	M240	566506	573604	environment interaction	unknown
+HS	M241	624260	628679	environment interaction	unknown
+IAI1	M241	586465	596413	environment interaction	unknown
+SE11	M241	666014	678772	environment interaction	unknown
+HS	M242	755663	764933	environment interaction	unknown
+IAI1	M242	731248	739251	environment interaction	unknown
+K12	M242	729583	738853	environment interaction	unknown
+SE11	M242	813178	821423	environment interaction	unknown
+HS	M243	3338351	3343358	host interaction	adhesion
+IAI1	M243	3375972	3380979	host interaction	adhesion
+K12	M243	3287426	3292432	host interaction	adhesion
+SE11	M243	3557535	3562542	host interaction	adhesion
+HS	M244	1157351	1160549	unknown	unknown
+K12	M244	1094275	1097652	unknown	unknown
+SE11	M244	1177499	1180518	unknown	unknown
+HS	M249	4451404	4454206	transport	unknown
+SE11	M249	4698763	4701607	transport	unknown
+536	M257	2080219	2083416	unknown	unknown
+CFT073	M257	2327685	2331692	unknown	unknown
+IAI39	M257	1103876	1107129	unknown	unknown
+UTI89	M257	2178850	2184177	unknown	unknown
+ED1a	M201	2222625	2229728	host interaction	adhesion 
+HS	M201	2083465	2090616	host interaction	adhesion 
+IAI1	M201	2106254	2114441	host interaction	adhesion 
+K12	M201	2044549	2052014	host interaction	adhesion 
+SE11	M201	2310127	2313841	host interaction	adhesion 
