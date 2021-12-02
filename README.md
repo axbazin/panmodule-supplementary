@@ -21,8 +21,8 @@ In the benchmark directory, you can find:
 
 ## _Klebsiella pneumoniae_ 1084
 
-Analysis of klebsiella pneumoniae 1084 with panModule was compared to [this study](
+Analysis of _Klebsiella pneumoniae_ 1084 with panModule was compared to [this study](
 https://doi.org/10.1371/journal.pone.0096292).
 
 the directory includes:
-- Klebsiella_modules.tsv, a file listing the klebsiella modules with a generic functional annotation and their positions on the genome.
+- Klebsiella_modules.tsv, a file listing the Klebsiella modules with a generic functional annotation and their positions on the genome.
