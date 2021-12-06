@@ -131,6 +131,8 @@ def calculateMetrics(refs, gi_genes):
 
     metrics_occurrences = {"TP":Counter(), "FN":Counter(), "FP": Counter(), "TN":Counter()}
 
+    seen_refs = set()
+    refs_with_predicted_module = set()
     TP = 0
     FN = 0
     FP = 0
@@ -139,6 +141,7 @@ def calculateMetrics(refs, gi_genes):
         for gi, genes in gis.items():
             try:
                 curr_refs = refs[genome][gi]
+                seen_refs |= curr_refs
             except KeyError:
                 continue
             gene2ref = defaultdict(set)
@@ -167,7 +170,12 @@ def calculateMetrics(refs, gi_genes):
 
             #all genes in refs
             #compute metrics for all pairs of gene in the GI
-            
+            for gene in gene2ref.keys():
+                FN_desc["nb_gene_in_ref"] += 1
+                if len(gene.modules) > 0:
+                    FN_desc["nb_gene_with_predicted_module"] +=1
+                    refs_with_predicted_module |= gene2ref[gene]
+
             for gene1, gene2 in combinations(gene2ref.keys(), 2):
                 if len(gene2ref[gene1] & gene2ref[gene2]) > 0:
                     if len(gene1.modules & gene2.modules) > 0:
@@ -218,7 +226,8 @@ def calculateMetrics(refs, gi_genes):
                         metrics_occurrences["TN"][min([gene1.number_of_genes, gene2.number_of_genes])] += 1
 
     #write_metrics_occurrences(metrics_occurrences)
-
+    FN_desc["nb_reference_modules"] = len(seen_refs)
+    FN_desc["nb_covered_reference"] = len(refs_with_predicted_module)
     return TP, FN, FP, TN, FN_desc
 
 
@@ -237,10 +246,12 @@ def computeBench(ref, gis, modules):
     curr_MCC = (( TP * TN ) - (FP * FN )) / sqrt((TP + FP) * (TP + FN) * (TN + FP) * (TN + FN)) if (TP + FP) * (TP + FN) * (TN + FP) * (TN + FN) > 0 else 0
 
     results = {"TP":str(TP), "FN":str(FN), "FP":str(FP), "TN":str(TN), "MCC":str(curr_MCC), "recall":str(recall), "precision":str(precision), "accuracy":str(accuracy), "F1":str(F1scores)}
-    results["both_not_in_mods"] = str(FN_desc["both_not_in_mods"])
-    results["one_not_in_mod"] = str(FN_desc["one_not_in_mod"])
-    results["inside_mod_position"] = str(FN_desc["inside_mod_position"])
-    results["mods_overlap"] = str(FN_desc["mods_overlap"])
+
+    results["nb_gene_in_ref"] = str(FN_desc["nb_gene_in_ref"])
+    results["nb_gene_in_ref_with_predicted_module"] = str(FN_desc["nb_gene_with_predicted_module"])
+    results["nb_modules_in_ref"] = str(FN_desc["nb_reference_modules"])
+    results["nb_modules_in_ref_with_predicted_module"] = str(FN_desc["nb_covered_reference"])
+
     #print(TP, FN, FP, TN, FN_desc)
     return results
 
