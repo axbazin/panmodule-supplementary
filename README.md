@@ -2,7 +2,7 @@
 
 The panModule method is available in the PPanGGOLiN software suite: https://github.com/labgem/PPanGGOLiN
 
-The article is currently unavailable.
+The article is currently available as a preprint:  https://doi.org/10.1101/2021.12.06.471380.
 
 ## Benchmark
 
